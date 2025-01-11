@@ -1,4 +1,4 @@
-# WGU Captsone
+# WGU Capstone
 
 Author: John Ludlum
 
@@ -24,7 +24,3 @@ A logistic regression model is created to predict fraudulent job advertisements 
 5. `reports` contains `Executive_Summary.pdf` (a brief summary of the project) and `Capstone_report.pdf` (a more comprehensive report).
 
 This project was the capstone for my M.S. Data Analytics degree at Western Governors University completed in June 2021.
-
-## App
-
-Coming soon!
